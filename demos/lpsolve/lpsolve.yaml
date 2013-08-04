@@ -1,0 +1,241 @@
+runConfigs:
+    noise: 1e-5
+    numIter: 500
+    embeddingDim: 5
+    useHighDimKernel: 1
+    saveFolder: ~/projects/rembo/demos/lpsolve/results
+var1:
+    lowerbound: 1
+    upperbound: 7
+    integer: 1
+    categorical: 1
+var2:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var3:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var4:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var5:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var6:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var7:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var8:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var9:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var10:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var11:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var12:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var13:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var14:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var15:
+    lowerbound: 1
+    upperbound: 3
+    integer: 1
+    categorical: 1
+var16:
+    lowerbound: 1
+    upperbound: 3
+    integer: 1
+    categorical: 1
+var17:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var18:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var19:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var20:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var21:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var22:
+    lowerbound: 1
+    upperbound: 4
+    integer: 1
+    categorical: 1
+var23:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var24:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var25:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var26:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var27:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var28:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var29:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var30:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var31:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var32:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var33:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var34:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var35:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var36:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var37:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var38:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var39:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var40:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var41:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var42:
+    lowerbound: 1
+    upperbound: 4
+    integer: 1
+    categorical: 1
+var43:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var44:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var45:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var46:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
+var47:
+    lowerbound: 1
+    upperbound: 2
+    integer: 1
+    categorical: 1
